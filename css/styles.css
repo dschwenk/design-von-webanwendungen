@@ -50,13 +50,13 @@
 	border-right: 1px solid grey;
 	padding-top: 45px;
 	padding-bottom: 45px;
-	color: #5b777f;
+	color: #d5e2e5;
 }
 
 .blogentry img {
- margin-bottom: 15px;
- max-width: 100%;
- height: auto;
+	margin-bottom: 15px;
+	max-width: 100%;
+	height: auto;
 }
 
 
@@ -74,9 +74,9 @@
 }
 
 .pictureentry img {
- margin-bottom: 15px;
- max-width: 100%;
- height: auto;
+	margin-bottom: 15px;
+	max-width: 100%;
+	height: auto;
 }
 
 
@@ -91,7 +91,7 @@
 	border-right: 1px solid grey;
 	padding-top: 45px;
 	padding-bottom: 45px;
-	color: #5b777f;
+	color: #d5e2e5;
 }
 
 
@@ -143,7 +143,7 @@ hr {
 	border-left: 1px solid grey;
 	border-right: 1px solid grey;
 	padding-top: 45px;
-	color: #5b777f;
+	color: #d5e2e5;
 }
 
 
